@@ -4,7 +4,6 @@
 
 <h3 align="center">A passionate iOS developer from Turkiye 🇹🇷</h3>
 
-<br/>
 
 <div align="center">
  
@@ -23,7 +22,7 @@
 
  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=swift,figma,firebase,mysql,sqlite,github,git" /><br/>
     <img src="https://skillicons.dev/icons?i=java,c,cs,bash,vscode,visualstudio,wordpress,linux,redhat" /><br>
@@ -43,5 +42,4 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/burak0aydin/burak0aydin/output/github-contribution-grid-snake.svg" />
   
 </div>
-
 <hr/>
