@@ -38,10 +38,3 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/burak0aydin/burak0aydin/output/github-contribution-grid-snake.svg" />
   
 </div>
-
-
-<hr/>
-
-
-<hr/>
-
